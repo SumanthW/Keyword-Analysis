@@ -1,6 +1,6 @@
 # Keyword Network Analysis and Word Frequency Analysis
 # Overview
-Project 3 aims to conduct keyword network analysis and word frequency analysis using a provided dataset. The objective is to extract keyword data, convert it into a weighted adjacency matrix, and analyze the resulting network structure. Additionally, the project involves computing node degree, strength, identifying top nodes, and visualizing network properties.
+This project aims to conduct keyword network analysis and word frequency analysis using a provided dataset. The objective is to extract keyword data, convert it into a weighted adjacency matrix, and analyze the resulting network structure. Additionally, the project involves computing node degree, strength, identifying top nodes, and visualizing network properties.
 
 # Dataset
 The dataset can be accessed here. It contains keyword data necessary for the analysis.
